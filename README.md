@@ -1,2 +1,2 @@
 # Sample
-Its my new revisio
+Its my new revision
